@@ -13,7 +13,7 @@ const Landing = () => (
   >
     {" "}
     <Row className="mb-4">
-      <p className="text-secondary h3"> Blogging Application</p>
+      <p className="text-secondary h3"> Forkky </p>
     </Row>
     <Row>
       <Col>
